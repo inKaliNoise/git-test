@@ -19,5 +19,7 @@ while secret_numb != int(answer):
     answer = input('try again: ')
 print(f'You win the {i} times!')
 
+#time test l & P
+
 
 
