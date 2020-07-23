@@ -15,7 +15,7 @@ while secret_numb != int(answer):
         print("for large a number")
     i += 1
     answer = input('try again: ')
-print(f'You win in {i} times!')
+print(f'You win the {i} times!')
 
 
 
